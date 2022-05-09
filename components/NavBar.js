@@ -2,7 +2,6 @@ import Image from 'next/image'
 import Link from 'next/link'
 
 import styles from '../styles/Home.module.css'
-import mimoji from '../public/mimoji2.png'
 import SocialHandles from './SocialHandles'
 
 export default function Header () {

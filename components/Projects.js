@@ -1,13 +1,13 @@
 import SectionHeader from './SectionHeader'
 import styles from '../styles/Home.module.css'
-import IOSApp from './iOSApp'
+import IOSApp from './IOSApp'
 import WebProject from './WebProject'
 
 import yolc from '../public/YolcIcon.png'
 import momstrong from '../public/Momstrong.png'
 import bombs from '../public/Bombs.png'
 import dddc from '../public/DDDC.png'
-import sayc from '../public/SAYC.png'
+import sayc from '../public/sayc.png'
 
 export default function Projects () {
   return (
